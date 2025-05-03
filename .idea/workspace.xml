@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e5394df-9f0c-445e-92f3-e6bfbf48543b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/encryptData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/filter_userdata.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/js/reg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/processor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/reg.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tables/users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg/js/reg.js" beforeDir="false" afterPath="$PROJECT_DIR$/reg/js/reg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg/processor.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg/processor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg/reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg/reg.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/xampp/htdocs/oop/tables",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/xampp/htdocs/oop/tables&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\xampp\htdocs\oop\tables" />
@@ -90,7 +76,8 @@
       <updated>1745939429310</updated>
       <workItem from="1745939430543" duration="8393000" />
       <workItem from="1746009783882" duration="8048000" />
-      <workItem from="1746185992340" duration="14770000" />
+      <workItem from="1746185992340" duration="15579000" />
+      <workItem from="1746256834357" duration="20946000" />
     </task>
     <servers />
   </component>

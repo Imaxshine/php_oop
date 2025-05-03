@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
     <title>Register</title>
     <style>
@@ -10,16 +11,30 @@
             background-color: #1a1a1a;
             color: #ffffff;
         }
+        .formHolder{
+            height: 100vh;
+            font-family: Tahoma,Arial,Verdana,sans-serif;
+        }
+        .modeBtn{
+            position: absolute;
+            right: 8px;
+            top: 5px;
+        }
     </style>
 </head>
 <body>
+
+<!--Mode-->
+<button class="modeBtn btn" onclick="changeTheme()"><i id="modeIcon" class="bi bi-sun"></i></button>
+<!--End Mode-->
 <dialog class="myDialog">
     <div class="outputs"></div>
+
 </dialog>
-    <div>
-        <form id="register">
-            <div>
-                <span>registration form</span>
+    <div class="formHolder d-flex justify-content-center align-items-center">
+        <form class="shadow-lg p-5 rounded" id="register">
+            <div class="text-center">
+                <span class="text-capitalize">registration form</span>
             </div>
 
             <div class="my-3">
@@ -43,7 +58,13 @@
             </div>
 
             <div class="my-3">
-                <button class="btn btn-success w-100" onclick="Register()">registration</button>
+                <button class="btn btn-success w-100 text-capitalize" onclick="Register()">registration</button>
+            </div>
+
+            <div>
+                <p>
+                    <span class="fw-bolder">Already have an account? </span> <a class="text-decoration-none text-primary" href="/oop/login/index.html"> Login here</a>
+                </p>
             </div>
         </form>
     </div>
