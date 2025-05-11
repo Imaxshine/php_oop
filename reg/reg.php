@@ -60,7 +60,7 @@ class RegisterUser{
             $stmt2 = $this->conn->prepare($insert);
             $stmt2->bind_param("ssss",$encName,$encryptedEmail,$hashedPass,$created);
             if($stmt2->execute()){
-                return "<p class='alert alert-success'>Login success</p>";
+                return "<p class='alert alert-success'>Registration success</p>";
             }
             return "<p class='alert alert-danger'>We failed to keep you log in, try again later!</p>";
         }

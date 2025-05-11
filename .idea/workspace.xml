@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5394df-9f0c-445e-92f3-e6bfbf48543b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/js/reg.js" beforeDir="false" afterPath="$PROJECT_DIR$/reg/js/reg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reg/processor.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg/processor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reg/encrypt.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg/encrypt.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reg/reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/reg/reg.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +77,7 @@
       <workItem from="1746009783882" duration="8048000" />
       <workItem from="1746185992340" duration="15579000" />
       <workItem from="1746256834357" duration="20946000" />
+      <workItem from="1746952858738" duration="27896000" />
     </task>
     <servers />
   </component>

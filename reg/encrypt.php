@@ -30,3 +30,8 @@ class Decryption implements credentialsData
         return openssl_decrypt($encryptedData,$cipher,$key,$option,$iv_length);
     }
 }
+//$e = new Encryption();
+////echo $name = $e->PassData("Emma");
+//
+//$d = new Decryption();
+//echo $d->PassData("6OdEQl+X8R6pb5iqeaUFWWVxSkF2QT09");

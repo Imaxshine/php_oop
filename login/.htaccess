@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /oop/login/
+RewriteRule ^home/?$ dash.php [L]
